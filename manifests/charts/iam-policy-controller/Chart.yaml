@@ -1,0 +1,6 @@
+---
+apiVersion: v1
+name: iam-policy-controller
+description: A Helm chart for deploying the IAM Policy Controller
+version: 2.5.0
+appVersion: "2.5.0"
